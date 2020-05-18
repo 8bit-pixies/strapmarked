@@ -23,3 +23,8 @@ document.getElementById('marked').style.display = 'none';
 
 And that's it! with 8 lines of boilerplate code, you've essentially got your strapdown alternative!
 
+*  [Example file](https://github.com/chappers/strapmarked/blob/master/index.html)
+*  [Live demo](https://chappers.github.io/strapmarked/)
+
+Credit to [Marked](https://github.com/markedjs/marked) for Markdown parser and [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) for the css picker.
+
